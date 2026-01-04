@@ -10,6 +10,25 @@ IMSI, atau metode ilegal lainnya.
 
 ---
 
+🏷️ GitHub Topics (Tags)
+🔑 Utama (Wajib)
+
+gps
+live-location
+geolocation
+consent-based
+privacy-friendly
+python
+flask
+javascript
+html5
+termux
+arm64
+cloudflared
+self-hosted
+open-source
+mit-license
+
 ## 🚀 Fitur Utama
 
 - 📍 Live GPS tracking (latitude, longitude, accuracy)
@@ -56,8 +75,36 @@ IMSI, atau metode ilegal lainnya.
 
 ---
 
+🌐 Deployment
+
+cloudflared
+reverse-proxy
+self-hosted
+web-app
+
+⚖️ Legal & Etika
+
+open-source
+mit-license
+gdpr-compliant
+privacy
+ethical-tracking
+
+📌 Use Case
+
+family-tracking
+courier-tracking
+emergency-sharing
+education
+research
+
 ## ▶️ Cara Menjalankan
 
 ### 1️⃣ Install dependency
 ```bash
 pip install -r requirements.txt
+
+> ⚠️ DISCLAIMER  
+> This project requires explicit user consent.
+> Any misuse for unauthorized tracking is strictly prohibited.
+
