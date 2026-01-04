@@ -1,0 +1,61 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+.env/
+.env.*
+pip-wheel-metadata/
+
+# ==============================
+# Logs & Runtime Data
+# ==============================
+locations.json
+*.log
+
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ==============================
+# Node / Frontend (if added later)
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ==============================
+# Cloudflared / Secrets
+# ==============================
+*.pem
+*.crt
+*.key
+cloudflared/
+credentials.json
+
+# ==============================
+# Docker (optional)
+# ==============================
+docker-compose.override.yml
+
+# ==============================
+# Temporary files
+# ==============================
+tmp/
+.cache/
