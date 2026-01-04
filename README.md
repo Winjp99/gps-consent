@@ -5,6 +5,13 @@ Gps Consent Tracker adalah aplikasi berbasis web + backend
 yang memungkinkan pengguna **membagikan lokasi GPS secara real-time
 dengan persetujuan eksplisit (opt-in)**.
 
+live gps tracking
+consent based location sharing
+html5 geolocation flask
+privacy friendly gps tracker
+termux arm64 flask app
+
+
 ❗ Project ini **TIDAK** melakukan pelacakan berdasarkan nomor telepon,
 IMSI, atau metode ilegal lainnya.
 
