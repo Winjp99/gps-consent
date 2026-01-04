@@ -1,5 +1,11 @@
 # consent-gps
 
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Flask](https://img.shields.io/badge/flask-backend-black)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Privacy](https://img.shields.io/badge/privacy-consent--based-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20ARM64-orange)
+
 Consent-based live GPS location sharing using Flask and HTML5 Geolocation.
 Gps Consent Tracker adalah aplikasi berbasis web + backend
 yang memungkinkan pengguna **membagikan lokasi GPS secara real-time
